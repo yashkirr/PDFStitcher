@@ -1,5 +1,5 @@
 # PDFStitcher
 Python script that stitches pdf files in a directory
 
-#Run
+# Run
 python stitcher.py
